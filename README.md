@@ -18,42 +18,38 @@ Currently working on a Formula Student car and other exciting projects in data s
 
 ## 🛠️ Skills
 
-- Programming: Python, MATLAB, C/C++
-- Data Science: Pandas, NumPy, Scikit-learn
-- Machine Learning & AI
+- Programming: Python, MATLAB, C/C++, Java, R, PHP, JS, CSS, SQL, MERN
+- Data Science: Pandas, NumPy, Scikit-learn, QGIS
+- Machine Learning & AI: Roboflow
+- Others: Arduino IDE, STMCube IDE, LabVIEW, Git, Canva, Expo Go
 - Engineering Design & Simulation
-- Technical Writing
+- Writing
+- Photography
+
 
 ---
 
 ## 🌟 Projects
 
 - Formula Student Electric Car (Team Member, Current)
-- [Medium – GiggleByte](https://medium.com/@gigglebyte) (Technical & creative writing)
+- [Medium – GiggleByte](https://medium.com/@gigglebyte) (Personal Blog)
 - Data-driven medical diagnostics (Ongoing)
 - Custom F1 telemetry analysis tools
-
----
-
-## 🏆 Achievements
-
-- Published articles on Medium as [gigglebyte](https://medium.com/@gigglebyte)
-- Author of creative content as [artsy_padawan](https://www.instagram.com/artsy_padawan/)
-- Contributed to award-winning engineering projects
+- Cattle Breed recognition via image processing models
 
 ---
 
 ## 📫 Contact & Socials
+- Published articles on Medium as [gigglebyte](https://medium.com/@gigglebyte)
+- Art/Photography on [artsy_padawan](https://www.instagram.com/artsy_padawan/)
 
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@gigglebyte)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/artsy_padawan/)
 
 ---
 
 ## ✨ Fun Facts
 
-- 🚀 “The universe is under no obligation to make sense to you.” — Neil deGrasse Tyson  
-- 🏎️ “Once something is set in motion, don’t look back.” — Michael Schumacher
+- ✨ “You're only given one spark of madness. You mustn't lose it” — Robin Williams  
+- 🏎️ “Once something is a passion, the motivation is there.” — Michael Schumacher
 
 ---
 
