@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Dhiti!
 
-Motivated and problem-solving engineering student who loves applying theoretical knowledge in a practical setting. Eager to contribute to real-world engineering projects and gain hands-on experience.  
-Currently working on a Formula Student car and other exciting projects in data science and machine learning.
+Computer Engineering student working in Python, ML/computer vision, full-stack development, and embedded systems. Interested in scientific software, data tools, and open-source collaboration.
 
 ---
 
