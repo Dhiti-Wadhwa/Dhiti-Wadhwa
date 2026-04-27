@@ -32,8 +32,8 @@ Computer Engineering student working in Python, ML/computer vision, full-stack d
 
 - Formula Student Electric Car (Team Member, Current)
 - [Medium – GiggleByte](https://medium.com/@gigglebyte) (Personal Blog)
-- Data-driven medical diagnostics (Ongoing)
-- Custom F1 telemetry analysis tools
+- Driver- Vehicle Digital Twin (Ongoing)
+- College Projects (Research Assistant, Movie Ratings Predictor, Sales Prediction)
 - Cattle Breed recognition via image processing models
 
 ---
